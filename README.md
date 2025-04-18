@@ -1,4 +1,4 @@
-# 🧗‍♂️ BoulderingDB
+# 🧗‍♂️ BoulderingDB 🧗‍♀️
 
 Welcome to BoulderingDB an annotation tool and dataset for video based bouldering data. This repository includes all of the raw video files as well as the annotated JSON files.
 Files can be matched by their name. For example Videos/Data1.mp4 goes with JSON/Data1.json.
