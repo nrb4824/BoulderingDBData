@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+JSON/*.json filter=lfs diff=lfs merge=lfs -text
+Videos/*.mov filter=lfs diff=lfs merge=lfs -text
+Videos/*.mp4 filter=lfs diff=lfs merge=lfs -text
